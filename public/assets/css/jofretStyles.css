@@ -1,0 +1,55 @@
+.about-us-countdown-area {
+    background-color: #FFFFFF;
+}
+
+.about-us-countdown-area .about-content-text h3 {
+    color: #999;
+}
+
+.about-us-countdown-area .about-content-text p {
+    color: #333;
+}
+
+
+/****bottom****/
+.welcome-area .icon-scroll {
+    width: 26px;
+    height: 39px;
+    position: absolute;
+    z-index: 999999;
+    left: 50%;
+    bottom: 10%;
+    margin-left: -13px;
+    -webkit-box-shadow: inset 0 0 0 2px #ffffff;
+    box-shadow: inset 0 0 0 2px #ffffff;
+    border-radius: 25px;
+    opacity: 0.75;
+    cursor: pointer;
+}
+
+.classy-nav-container .classy-navbar .nav-brand {
+    max-width: 90%;
+    margin-right: 15px;
+}
+
+
+/**/
+
+.site-blocks-cover.inner-page-cover, .site-blocks-cover.inner-page-cover .row {
+    min-height: 600px;
+    height: calc(30vh);
+}
+
+.site-blocks-cover.overlay {
+    position: relative;
+}
+.site-blocks-cover, .site-blocks-cover .row {
+    min-height: 600px;
+    height: calc(100vh - 73px);
+}
+.site-blocks-cover {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-position: center center;
+}
